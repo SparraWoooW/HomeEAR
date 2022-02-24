@@ -1,1 +1,1 @@
-worker: python server.ipynb
+web: gunicorn server:app
