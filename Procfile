@@ -1,1 +1,1 @@
-web: voila --port=$PORT --enable_nbextensions=True server.ipynb
+worker: python server.py
