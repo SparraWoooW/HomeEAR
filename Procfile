@@ -1,2 +1,1 @@
-web: gunicorn server:app
-
+web: voila --port=$PORT --enable_nbextensions=True server.ipynb
