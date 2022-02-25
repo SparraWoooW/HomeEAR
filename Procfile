@@ -1,1 +1,1 @@
-worker: python server.ipynb
+worker: python server.py
